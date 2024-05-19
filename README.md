@@ -21,7 +21,7 @@ In the field of AI, generative models have gained immense popularity for their a
 - [Retrieval-Augmented-Generation(RAG)](/Retrieval-Augmented-Generation(RAG)/)
   - [RAG Intro](/Retrieval-Augmented-Generation(RAG)/RAG-Intro.md)
 - [GenAI-Techniques](/GenAI-Techniques/)
-  - [Generative-Adversarial-Network(GAN)](/GenAI-Techniques/Generative-Adversarial-Network(GAN).md)
+  - [Generative-Adversarial-Network(GAN)](/GenAI-Techniques/GAN(Generative-Adversarial-Network).md)
   - [Variational-Autoencoder(VAE)](/GenAI-Techniques/Variational-Autoencoder(VAE).md)
   - [Difference between GANs and VAEs](/GenAI-Techniques/Difference-between-GANs-and_AVEs.md)
   - [Diffusion and Autoregressive Models](/GenAI-Techniques/Diffusion-and-Autoregressive-models.md)
