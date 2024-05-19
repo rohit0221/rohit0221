@@ -1,4 +1,4 @@
-# Welcome to the GenAI Knowledge Hub
+# Welcome to the Rohit's GenAI Nexus
 
 GenAI, short for Generative Artificial Intelligence, is a fascinating field at the intersection of artificial intelligence and creativity. Whether you're a beginner looking to understand the basics or an advanced learner diving deep into intricate concepts, this knowledge hub is your go-to resource.
 

@@ -1,6 +1,5 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Rohit's GenAI Nexus
+logo: rohit-nexus.png
+description: Single Source for Learning everything about GenAi in an easier way!
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
