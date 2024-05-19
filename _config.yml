@@ -1,3 +1,7 @@
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 title: Rohit's GenAI Nexus
 logo: rohit-nexus.png
 description: Single Source for Learning everything about GenAi in an easier way!
