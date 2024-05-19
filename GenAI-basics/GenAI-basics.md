@@ -1,12 +1,3 @@
->I am trying a to create a repository that contains the most asked questions in the field of Generative AI.
-The questions should be of the level of a Gen Ai architect who is supposed to be an expert in the fild of Generative AI.
-Help me create 50 such questions.
-Put the questions in suitable headers and subheaders.
-Put the questions in in a decreasing order of the likeliness of being asked. Keeping the most important question first.
-Make sure the questions are of the level that AI companies like nvidia, Microsoft, AWS, OpenAI and Google ask in theiir interviews.
-
-
-
 # General Concepts of Generative AI
 -----
 
