@@ -1,4 +1,6 @@
-## **What are foundational Models in Generative AI?**
+# Foundation Models
+
+## **What are foundation Models in Generative AI?**
 
 Foundational models in Generative AI are large-scale models that are pre-trained on vast amounts of data and can be fine-tuned for a wide range of downstream tasks. These models serve as the basis for various applications in natural language processing (NLP), computer vision, and other AI domains. They leverage extensive pre-training to capture general patterns and knowledge, making them highly versatile and powerful for generative tasks.
 
